@@ -136,7 +136,7 @@ Try adding a route back to the homepage. Don't worry about content for now!
 
 ## Lab I: Stock Trader Basic
 
-Starter code: https://git.generalassemb.ly/ga-wdi-exercises/react-router-lab/blob/master/part-i.md
+Starter code: https://git.generalassemb.ly/ga-wdi-exercises/react-router-lab/blob/master/stock_basic.md
 
 Create a basic Stock Trader app using React Router. It should have the following:
 
@@ -149,7 +149,7 @@ Further instructions available in the README.
 
 ## Lab II: Stock Trader w/ API
 
-Starter code: https://git.generalassemb.ly/ga-wdi-exercises/react-router-lab/blob/master/part-ii.md
+Starter code: https://git.generalassemb.ly/ga-wdi-exercises/react-router-lab/blob/master/stock_api.md
 
 Add a third party api to the basic app for data instead.
 
