@@ -11,7 +11,7 @@ import Dashboard from './Dashboard'
 import Search from './Search'
 import About from './About'
 import Stock from './Stock'
-import './App.css'
+import './styles/App.css'
 
 class App extends Component {
   constructor (props) {

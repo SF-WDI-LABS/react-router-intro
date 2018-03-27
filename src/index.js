@@ -5,7 +5,7 @@ import {
 } from 'react-router-dom'
 
 import App from './App'
-import './index.css'
+import './styles/index.css'
 
 ReactDOM.render(
   <Router>
