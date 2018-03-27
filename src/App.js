@@ -11,6 +11,7 @@ import Stock from "./Stock"
 import "./App.css"
 
 const stockData = require('./data/stock_data.json');
+
 class App extends Component {
   constructor(props){
     super(props);
